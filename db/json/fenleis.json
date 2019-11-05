@@ -1,0 +1,1964 @@
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84e8"), 
+    "name" : "多抓鱼味的推荐", 
+    "categories" : [
+        {
+            "subCategories" : [
+                {
+                    "id" : "225353242932940133", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文学"
+                }, 
+                {
+                    "id" : "225353653467221619", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "艺术"
+                }, 
+                {
+                    "id" : "225353787651392765", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "社科"
+                }, 
+                {
+                    "id" : "225354064613869438", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "生活"
+                }, 
+                {
+                    "id" : "225354094632501944", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "225354133882800635", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "互联网"
+                }, 
+                {
+                    "id" : "225354173732880627", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "原版"
+                }, 
+                {
+                    "id" : "225355027500238434", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "少儿"
+                }
+            ], 
+            "name" : "豆瓣 8.5", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "type" : "category", 
+            "id" : "135481276860730989", 
+            "description" : "大概不会上当受骗。"
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "225355280261581222", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文学"
+                }, 
+                {
+                    "id" : "225355309512655993", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "艺术"
+                }, 
+                {
+                    "id" : "225355351162095602", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "社科"
+                }, 
+                {
+                    "id" : "225355386440386218", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "生活"
+                }, 
+                {
+                    "id" : "225355391003790319", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "225355396292807028", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "互联网"
+                }, 
+                {
+                    "id" : "225355405331532910", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "原版"
+                }, 
+                {
+                    "id" : "225355405700631978", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "少儿"
+                }
+            ], 
+            "name" : "越贵越省钱", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "type" : "category", 
+            "id" : "135481276923645540", 
+            "description" : "一口价。"
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "225355407915224751", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文学"
+                }, 
+                {
+                    "id" : "225355508045842859", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "艺术"
+                }, 
+                {
+                    "id" : "225355545161236846", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "社科"
+                }, 
+                {
+                    "id" : "225355609459917803", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "生活"
+                }, 
+                {
+                    "id" : "225355617588482038", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "225355626975331318", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "互联网"
+                }, 
+                {
+                    "id" : "225355634999035177", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "原版"
+                }, 
+                {
+                    "id" : "225355667752357876", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "少儿"
+                }
+            ], 
+            "name" : "只在多抓鱼有", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "type" : "category", 
+            "id" : "162556639629544058", 
+            "description" : "只此一家，别无分店。"
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "225355671426566186", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文学"
+                }, 
+                {
+                    "id" : "225355741458859361", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "艺术"
+                }, 
+                {
+                    "id" : "225355758110247088", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "社科"
+                }, 
+                {
+                    "id" : "225355794973985312", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "生活"
+                }, 
+                {
+                    "id" : "225355801647123133", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "225355808643222010", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "互联网"
+                }, 
+                {
+                    "id" : "225355817522564967", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "原版"
+                }, 
+                {
+                    "id" : "225355821570065892", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "少儿"
+                }
+            ], 
+            "name" : "新出版", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "type" : "category", 
+            "id" : "162556639658901936", 
+            "description" : "新书好卖不骄傲，二手好卖才算俏。"
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "223869431313335200", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文学"
+                }, 
+                {
+                    "id" : "223869450401612067", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "艺术"
+                }, 
+                {
+                    "id" : "223869456701460320", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "社科"
+                }, 
+                {
+                    "id" : "223869464804851753", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "生活"
+                }, 
+                {
+                    "id" : "223869467082362547", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "223869469485696372", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "互联网"
+                }, 
+                {
+                    "id" : "223869472585287987", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "原版"
+                }, 
+                {
+                    "id" : "223869475609379951", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "少儿"
+                }
+            ], 
+            "name" : "特价区", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "type" : "category", 
+            "id" : "165071856997498988", 
+            "description" : "来自多抓鱼的定价机器人「有点不好了」。"
+        }, 
+        {
+            "name" : "大作家", 
+            "type" : "category", 
+            "description" : "特别大的那种。", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "id" : "165072269884786364"
+        }, 
+        {
+            "name" : "手慢无", 
+            "type" : "category", 
+            "description" : "多抓鱼卖得最快的书。请准备好手速。", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "id" : "180702887721042144"
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "225355824128591978", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文学"
+                }, 
+                {
+                    "id" : "225355975756876590", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "艺术"
+                }, 
+                {
+                    "id" : "225356001191137003", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "社科"
+                }, 
+                {
+                    "id" : "225356075417732469", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "生活"
+                }, 
+                {
+                    "id" : "225356078517322162", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "225356086079655147", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "互联网"
+                }, 
+                {
+                    "id" : "225356089040831009", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "原版"
+                }, 
+                {
+                    "id" : "225356137531180649", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "少儿"
+                }
+            ], 
+            "name" : "有年头的书", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "type" : "category", 
+            "id" : "180702887762986021", 
+            "description" : "指年满 18 岁，也就是上个世纪出版的书。"
+        }, 
+        {
+            "name" : "鱼友推荐", 
+            "type" : "oc_contribution", 
+            "description" : "所有人推荐给所有人", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "id" : "257213983914857135"
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "268479210211906338", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文学"
+                }, 
+                {
+                    "id" : "268479210228684390", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "艺术"
+                }, 
+                {
+                    "id" : "268479210245463200", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "社科"
+                }, 
+                {
+                    "id" : "268479210262239610", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "生活"
+                }, 
+                {
+                    "id" : "268479210274822055", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "268479210291600936", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "互联网"
+                }, 
+                {
+                    "id" : "268479210304182772", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "原版"
+                }, 
+                {
+                    "id" : "268479210320961379", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "少儿"
+                }
+            ], 
+            "name" : "free", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "type" : "free", 
+            "id" : "266177513393362452", 
+            "description" : ""
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "226776532863946338", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "Non-fiction"
+                }, 
+                {
+                    "id" : "226776681937895481", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "Children’s Books"
+                }, 
+                {
+                    "id" : "226776682369911213", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "Art & Design"
+                }, 
+                {
+                    "id" : "226776683041000303", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "Science & Technology"
+                }, 
+                {
+                    "id" : "226776683691116392", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "Humanities & Social Science"
+                }, 
+                {
+                    "id" : "226776882048140474", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "Classics"
+                }, 
+                {
+                    "id" : "226776882253663403", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "Literature & Fiction"
+                }
+            ], 
+            "name" : "英文原版", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "type" : "category", 
+            "id" : "135481293314983272", 
+            "description" : ""
+        }, 
+        {
+            "name" : "繁体中文", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#D6BA8C", 
+                "id" : "135481276831369709", 
+                "name" : "多抓鱼味的推荐"
+            }, 
+            "id" : "135481293432426424"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84e9"), 
+    "name" : "教材教辅", 
+    "categories" : [
+        {
+            "subCategories" : [
+                {
+                    "id" : "326121961078004980", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "考研政治"
+                }, 
+                {
+                    "id" : "326121961157694677", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "考研数学"
+                }, 
+                {
+                    "id" : "326121961208027783", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "考研英语"
+                }, 
+                {
+                    "id" : "326121961258359514", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "法学"
+                }, 
+                {
+                    "id" : "326121961308691669", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "计算机"
+                }, 
+                {
+                    "id" : "326121961350634571", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "326121961400967024", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文史哲"
+                }, 
+                {
+                    "id" : "326121961442909704", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "医学"
+                }
+            ], 
+            "name" : "考研", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "326121959261871378", 
+                "name" : "教材教辅"
+            }, 
+            "type" : "category", 
+            "id" : "326121961015091138", 
+            "description" : ""
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "326121960574688832", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "雅思"
+                }, 
+                {
+                    "id" : "326121960616628811", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "托福"
+                }, 
+                {
+                    "id" : "326121960662766676", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "四六级"
+                }, 
+                {
+                    "id" : "326121960708904769", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "少儿英语"
+                }, 
+                {
+                    "id" : "326121960755041177", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "英语读物"
+                }, 
+                {
+                    "id" : "326121960796984849", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "英语词典"
+                }, 
+                {
+                    "id" : "326121960838927503", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "日语"
+                }, 
+                {
+                    "id" : "326121960885065692", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "韩语"
+                }, 
+                {
+                    "id" : "326121960927008084", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "法语"
+                }, 
+                {
+                    "id" : "326121960973147103", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "德语"
+                }
+            ], 
+            "name" : "外语学习", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "326121959261871378", 
+                "name" : "教材教辅"
+            }, 
+            "type" : "category", 
+            "id" : "326121960507577656", 
+            "description" : ""
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "326121960125897591", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "计算机"
+                }, 
+                {
+                    "id" : "326121960180423513", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "经管"
+                }, 
+                {
+                    "id" : "326121960222365830", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "法律"
+                }, 
+                {
+                    "id" : "326121960268501459", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "文史哲"
+                }, 
+                {
+                    "id" : "326121960310444124", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "心理学"
+                }, 
+                {
+                    "id" : "326121960356584378", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "医药卫生"
+                }, 
+                {
+                    "id" : "326121960419497301", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "新闻传播"
+                }, 
+                {
+                    "id" : "326121960465636536", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "自然科学"
+                }
+            ], 
+            "name" : "大学教材", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "326121959261871378", 
+                "name" : "教材教辅"
+            }, 
+            "type" : "category", 
+            "id" : "326121960054592549", 
+            "description" : ""
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "326121959404474498", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "公务员"
+                }, 
+                {
+                    "id" : "326121959446418735", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "会计"
+                }, 
+                {
+                    "id" : "326121959509332695", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "司法考试"
+                }, 
+                {
+                    "id" : "326121959555470549", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "教师资格"
+                }, 
+                {
+                    "id" : "326121959597414963", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "计算机"
+                }, 
+                {
+                    "id" : "326121959656135946", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "证券金融"
+                }
+            ], 
+            "name" : "资格考试", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "326121959261871378", 
+                "name" : "教材教辅"
+            }, 
+            "type" : "category", 
+            "id" : "326121959341560148", 
+            "description" : ""
+        }, 
+        {
+            "subCategories" : [
+                {
+                    "id" : "326121959765185752", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "高考"
+                }, 
+                {
+                    "id" : "326121959815518758", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "高中教辅"
+                }, 
+                {
+                    "id" : "326121959857462980", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "初中教辅"
+                }, 
+                {
+                    "id" : "326121959903597937", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "中学课外读物"
+                }, 
+                {
+                    "id" : "326121960012650596", 
+                    "type" : "category", 
+                    "description" : "", 
+                    "name" : "小学教辅"
+                }
+            ], 
+            "name" : "中小学教辅", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "326121959261871378", 
+                "name" : "教材教辅"
+            }, 
+            "type" : "category", 
+            "id" : "326121959698078236", 
+            "description" : ""
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84ea"), 
+    "name" : "杂志收发室", 
+    "categories" : [
+        {
+            "name" : "三联生活周刊", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481276969781920", 
+                "name" : "杂志收发室"
+            }, 
+            "id" : "271351878158258191"
+        }, 
+        {
+            "name" : "中国国家地理", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481276969781920", 
+                "name" : "杂志收发室"
+            }, 
+            "id" : "271351894381828509"
+        }, 
+        {
+            "name" : "博物", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481276969781920", 
+                "name" : "杂志收发室"
+            }, 
+            "id" : "271351898827790548"
+        }, 
+        {
+            "name" : "新知", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481276969781920", 
+                "name" : "杂志收发室"
+            }, 
+            "id" : "271351904536236586"
+        }, 
+        {
+            "name" : "知日", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481276969781920", 
+                "name" : "杂志收发室"
+            }, 
+            "id" : "271373272631877128"
+        }, 
+        {
+            "name" : "读库", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481276969781920", 
+                "name" : "杂志收发室"
+            }, 
+            "id" : "271373289207765765"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84eb"), 
+    "name" : "孩子的书架", 
+    "categories" : [
+        {
+            "name" : "0-3 岁童书", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481276969781930", 
+                "name" : "孩子的书架"
+            }, 
+            "id" : "192705364620218287"
+        }, 
+        {
+            "name" : "3-6 岁童书", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481276969781930", 
+                "name" : "孩子的书架"
+            }, 
+            "id" : "192705364733462823"
+        }, 
+        {
+            "name" : "7-10 岁少儿", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481276969781930", 
+                "name" : "孩子的书架"
+            }, 
+            "id" : "192705364842514977"
+        }, 
+        {
+            "name" : "10+ 岁少儿", 
+            "type" : "category", 
+            "description" : "", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481276969781930", 
+                "name" : "孩子的书架"
+            }, 
+            "id" : "192705364943178233"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84ec"), 
+    "name" : "艺术的边界", 
+    "categories" : [
+        {
+            "name" : "电影", 
+            "type" : "category", 
+            "description" : "我要拍电影，拍不成大电影，也要拍小电影。", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481276990750964"
+        }, 
+        {
+            "name" : "摄影 ", 
+            "type" : "category", 
+            "description" : "我是一只摄影狗，但我才不是你们说的那种炮友！", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481277103999477"
+        }, 
+        {
+            "name" : "艺术", 
+            "type" : "category", 
+            "description" : "艺术是个人表达。", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481277196271782"
+        }, 
+        {
+            "name" : "设计", 
+            "type" : "category", 
+            "description" : "从美工到大师", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481277351463906"
+        }, 
+        {
+            "name" : "绘本", 
+            "type" : "category", 
+            "description" : "到底算写作还是算绘画", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481277607314795"
+        }, 
+        {
+            "name" : "音乐", 
+            "type" : "category", 
+            "description" : "「生于心，有节于外，谓之音。」", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481277783477165"
+        }, 
+        {
+            "name" : "绘画", 
+            "type" : "category", 
+            "description" : "第一步是大胆地开始使用画笔。", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481277972218467"
+        }, 
+        {
+            "name" : "戏剧", 
+            "type" : "category", 
+            "description" : "是谁导演这场戏，在这孤单角色里。", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481278282598963"
+        }, 
+        {
+            "name" : "建筑", 
+            "type" : "category", 
+            "description" : "建筑是心境的延伸。", 
+            "parentCategory" : {
+                "themeColor" : "#AF84B1", 
+                "id" : "135481276969781932", 
+                "name" : "艺术的边界"
+            }, 
+            "id" : "135481278425206253"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84ed"), 
+    "name" : "文字的张力", 
+    "categories" : [
+        {
+            "name" : "中国文学", 
+            "type" : "category", 
+            "description" : "可以没有文坛，但总是要有文人。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481278622338534"
+        }, 
+        {
+            "name" : "古籍", 
+            "type" : "category", 
+            "description" : "没有肉蒲团，没有金瓶梅，不要问了。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481278697835685"
+        }, 
+        {
+            "name" : "外国文学", 
+            "type" : "category", 
+            "description" : "文青对话中如何接上话茬，只能帮你到这儿了。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481278907549544"
+        }, 
+        {
+            "name" : "阅读与写作", 
+            "type" : "category", 
+            "description" : "那些讲书的书。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481279503142569"
+        }, 
+        {
+            "name" : "诗歌", 
+            "type" : "category", 
+            "description" : "我就是从这篇岑寂中出发，来到世上去讴歌去历练的。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481279691883955"
+        }, 
+        {
+            "name" : "散文", 
+            "type" : "category", 
+            "description" : "形散神聚", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481279918377652"
+        }, 
+        {
+            "name" : "随笔", 
+            "type" : "category", 
+            "description" : "据说马桶上是这个分类阅读率最高的地方。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481280065178532"
+        }, 
+        {
+            "name" : "纪实", 
+            "type" : "category", 
+            "description" : "非虚构故事", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481280228756718"
+        }, 
+        {
+            "name" : "回忆录", 
+            "type" : "category", 
+            "description" : "了解历史，最重要的就是第一手资料。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481280337808544"
+        }, 
+        {
+            "name" : "人物传记", 
+            "type" : "category", 
+            "description" : "我所做的一切都是为了将来自传有东西可写。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481280413305897"
+        }, 
+        {
+            "name" : "推理", 
+            "type" : "category", 
+            "description" : "向作者挑战！", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481280551716265"
+        }, 
+        {
+            "name" : "悬疑", 
+            "type" : "category", 
+            "description" : "适合黑灯瞎火一个人看", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481280685933665"
+        }, 
+        {
+            "name" : "幻想力", 
+            "type" : "category", 
+            "description" : "现实无聊，架不住我爱发呆。", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481280757236786"
+        }, 
+        {
+            "name" : "科幻", 
+            "type" : "category", 
+            "description" : "生命、宇宙及一切的终极答案", 
+            "parentCategory" : {
+                "themeColor" : "#BC978D", 
+                "id" : "135481278597172146", 
+                "name" : "文字的张力"
+            }, 
+            "id" : "135481280979536803"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84ee"), 
+    "name" : "认知世界的维度", 
+    "categories" : [
+        {
+            "name" : "政治", 
+            "type" : "category", 
+            "description" : "不骗你，政治学真的是一门科学。", 
+            "parentCategory" : {
+                "themeColor" : "#898EC2", 
+                "id" : "135481281105363838", 
+                "name" : "认知世界的维度"
+            }, 
+            "id" : "135481281130531939"
+        }, 
+        {
+            "name" : "军事与战争", 
+            "type" : "category", 
+            "description" : "和平年代也可以用于日常的微观较量。", 
+            "parentCategory" : {
+                "themeColor" : "#898EC2", 
+                "id" : "135481281105363838", 
+                "name" : "认知世界的维度"
+            }, 
+            "id" : "135481281357021243"
+        }, 
+        {
+            "name" : "经济", 
+            "type" : "category", 
+            "description" : "钱多到一定地步就抽象了。", 
+            "parentCategory" : {
+                "themeColor" : "#898EC2", 
+                "id" : "135481281105363838", 
+                "name" : "认知世界的维度"
+            }, 
+            "id" : "135481281583516092"
+        }, 
+        {
+            "name" : "历史", 
+            "type" : "category", 
+            "description" : "你认不认为现实比幻想更有趣？", 
+            "parentCategory" : {
+                "themeColor" : "#898EC2", 
+                "id" : "135481281105363838", 
+                "name" : "认知世界的维度"
+            }, 
+            "id" : "135481281822592105"
+        }, 
+        {
+            "name" : "社会学", 
+            "type" : "category", 
+            "description" : "我们的行动与周围的世界相互塑造。", 
+            "parentCategory" : {
+                "themeColor" : "#898EC2", 
+                "id" : "135481281105363838", 
+                "name" : "认知世界的维度"
+            }, 
+            "id" : "135481282061665849"
+        }, 
+        {
+            "name" : "人类学", 
+            "type" : "category", 
+            "description" : "朋友，听说过田野调查吗？", 
+            "parentCategory" : {
+                "themeColor" : "#898EC2", 
+                "id" : "135481281105363838", 
+                "name" : "认知世界的维度"
+            }, 
+            "id" : "135481282170719078"
+        }, 
+        {
+            "name" : "哲学", 
+            "type" : "category", 
+            "description" : "我是谁？我从哪里来？我要到哪里去？", 
+            "parentCategory" : {
+                "themeColor" : "#898EC2", 
+                "id" : "135481281105363838", 
+                "name" : "认知世界的维度"
+            }, 
+            "id" : "135481282363655098"
+        }, 
+        {
+            "name" : "宗教", 
+            "type" : "category", 
+            "description" : "追问，然后解答。", 
+            "parentCategory" : {
+                "themeColor" : "#898EC2", 
+                "id" : "135481281105363838", 
+                "name" : "认知世界的维度"
+            }, 
+            "id" : "135481282648867304"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84ef"), 
+    "name" : "打开新地图", 
+    "categories" : [
+        {
+            "name" : "旅行", 
+            "type" : "category", 
+            "description" : "在路上", 
+            "parentCategory" : {
+                "themeColor" : "#6BABBD", 
+                "id" : "135481283022162864", 
+                "name" : "打开新地图"
+            }, 
+            "id" : "135481283047326121"
+        }, 
+        {
+            "name" : "LonelyPlanet", 
+            "type" : "category", 
+            "description" : "Lonely lonely planet and…me.", 
+            "parentCategory" : {
+                "themeColor" : "#6BABBD", 
+                "id" : "135481283022162864", 
+                "name" : "打开新地图"
+            }, 
+            "id" : "135481283231875936"
+        }, 
+        {
+            "name" : "英国", 
+            "type" : "category", 
+            "description" : "不止有炸鱼薯条", 
+            "parentCategory" : {
+                "themeColor" : "#6BABBD", 
+                "id" : "135481283022162864", 
+                "name" : "打开新地图"
+            }, 
+            "id" : "135481283311570336"
+        }, 
+        {
+            "name" : "美国", 
+            "type" : "category", 
+            "description" : "啊亚美利坚！我像一块滚石。", 
+            "parentCategory" : {
+                "themeColor" : "#6BABBD", 
+                "id" : "135481283022162864", 
+                "name" : "打开新地图"
+            }, 
+            "id" : "135481283416426038"
+        }, 
+        {
+            "name" : "北京", 
+            "type" : "category", 
+            "description" : "一般说「恨死这个地方」的人都离不开这儿。", 
+            "parentCategory" : {
+                "themeColor" : "#6BABBD", 
+                "id" : "135481283022162864", 
+                "name" : "打开新地图"
+            }, 
+            "id" : "135481283546448890"
+        }, 
+        {
+            "name" : "上海", 
+            "type" : "category", 
+            "description" : "欢喜侬", 
+            "parentCategory" : {
+                "themeColor" : "#6BABBD", 
+                "id" : "135481283022162864", 
+                "name" : "打开新地图"
+            }, 
+            "id" : "135481283743582880"
+        }, 
+        {
+            "name" : "香港", 
+            "type" : "category", 
+            "description" : "岁月磋磨", 
+            "parentCategory" : {
+                "themeColor" : "#6BABBD", 
+                "id" : "135481283022162864", 
+                "name" : "打开新地图"
+            }, 
+            "id" : "135481283932325035"
+        }, 
+        {
+            "name" : "台湾", 
+            "type" : "category", 
+            "description" : "闪亮的日子", 
+            "parentCategory" : {
+                "themeColor" : "#6BABBD", 
+                "id" : "135481283022162864", 
+                "name" : "打开新地图"
+            }, 
+            "id" : "135481284108485290"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84f0"), 
+    "name" : "东瀛爱好者", 
+    "categories" : [
+        {
+            "name" : "日本文化", 
+            "type" : "category", 
+            "description" : "奇妙的邻国", 
+            "parentCategory" : {
+                "themeColor" : "#E9A26C", 
+                "id" : "135481284188178862", 
+                "name" : "东瀛爱好者"
+            }, 
+            "id" : "135481284209150064"
+        }, 
+        {
+            "name" : "日本文学", 
+            "type" : "category", 
+            "description" : "WABI-SABI，就是日本文学的妙义", 
+            "parentCategory" : {
+                "themeColor" : "#E9A26C", 
+                "id" : "135481284188178862", 
+                "name" : "东瀛爱好者"
+            }, 
+            "id" : "135481284334980211"
+        }, 
+        {
+            "name" : "日系推理", 
+            "type" : "category", 
+            "description" : "真相只有一个！", 
+            "parentCategory" : {
+                "themeColor" : "#E9A26C", 
+                "id" : "135481284188178862", 
+                "name" : "东瀛爱好者"
+            }, 
+            "id" : "135481284414671586"
+        }, 
+        {
+            "name" : "日语学习", 
+            "type" : "category", 
+            "description" : "天気がいいから、散歩しましょう。", 
+            "parentCategory" : {
+                "themeColor" : "#E9A26C", 
+                "id" : "135481284188178862", 
+                "name" : "东瀛爱好者"
+            }, 
+            "id" : "135481284611802022"
+        }, 
+        {
+            "name" : "漫画·游戏·轻小说", 
+            "type" : "category", 
+            "description" : "怀念那个坐在树荫下看 SLAMDUNK 的暑假。", 
+            "parentCategory" : {
+                "themeColor" : "#E9A26C", 
+                "id" : "135481284188178862", 
+                "name" : "东瀛爱好者"
+            }, 
+            "id" : "135481284741827578"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84f1"), 
+    "name" : "37 度半的生活指南", 
+    "categories" : [
+        {
+            "name" : "美食", 
+            "type" : "category", 
+            "description" : "想吃的东西要马上吃掉才行，否则不知道之后会变得怎样。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481285396137466"
+        }, 
+        {
+            "name" : "宠物", 
+            "type" : "category", 
+            "description" : "我朋友养了只绿鬣蜥，它却只吃大白菜。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481285706514661"
+        }, 
+        {
+            "name" : "吸猫", 
+            "type" : "category", 
+            "description" : "猫是毒品啊！", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481285878481977"
+        }, 
+        {
+            "name" : "撸狗", 
+            "type" : "category", 
+            "description" : "天冷抱住一只狗。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481285966563004"
+        }, 
+        {
+            "name" : "咖啡", 
+            "type" : "category", 
+            "description" : "麻烦你，加两个 shot，只加冰不加水。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481286058836259"
+        }, 
+        {
+            "name" : "杂志", 
+            "type" : "category", 
+            "description" : "那些以书的名义出的杂志和真的就是杂志的杂志。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481286239192686"
+        }, 
+        {
+            "name" : "时尚", 
+            "type" : "category", 
+            "description" : "「红色是悲伤的终极良药。」", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481286461491053"
+        }, 
+        {
+            "name" : "手工", 
+            "type" : "category", 
+            "description" : "在劳作中感受存在的意义。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481286713149873"
+        }, 
+        {
+            "name" : "家居", 
+            "type" : "category", 
+            "description" : "墙角的沙发是世界上我最喜欢的地方。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481286910282481"
+        }, 
+        {
+            "name" : "植物园艺", 
+            "type" : "category", 
+            "description" : "比起人类我更喜欢植物。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481287065470199"
+        }, 
+        {
+            "name" : "情感", 
+            "type" : "category", 
+            "description" : "人生当然还是爱最重要。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "135481287220658492"
+        }, 
+        {
+            "name" : "青春", 
+            "type" : "category", 
+            "description" : "谁没年轻过呢。", 
+            "parentCategory" : {
+                "themeColor" : "#98BA9B", 
+                "id" : "135481285375168126", 
+                "name" : "37 度半的生活指南"
+            }, 
+            "id" : "145180056614864618"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84f2"), 
+    "name" : "大于等于二人的世界", 
+    "categories" : [
+        {
+            "name" : "婚姻", 
+            "type" : "category", 
+            "description" : "就是要把这事当做一门学问来经营。", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481287329710845", 
+                "name" : "大于等于二人的世界"
+            }, 
+            "id" : "135481287354876925"
+        }, 
+        {
+            "name" : "教育", 
+            "type" : "category", 
+            "description" : "教育的关键是如何学习，而不是学习什么。", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481287329710845", 
+                "name" : "大于等于二人的世界"
+            }, 
+            "id" : "135481287564593021"
+        }, 
+        {
+            "name" : "育儿", 
+            "type" : "category", 
+            "description" : "父母是孩子最棒的老师。", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481287329710845", 
+                "name" : "大于等于二人的世界"
+            }, 
+            "id" : "135481287715588384"
+        }, 
+        {
+            "name" : "童书", 
+            "type" : "category", 
+            "description" : "给孩子看的书应是世间最隽永的书。", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481287329710845", 
+                "name" : "大于等于二人的世界"
+            }, 
+            "id" : "135481287858194929"
+        }, 
+        {
+            "name" : "健康", 
+            "type" : "category", 
+            "description" : "人体使用指南", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481287329710845", 
+                "name" : "大于等于二人的世界"
+            }, 
+            "id" : "135481288046939581"
+        }, 
+        {
+            "name" : "医疗", 
+            "type" : "category", 
+            "description" : "真的不舒服，不要自诊，请询问专业医生。", 
+            "parentCategory" : {
+                "themeColor" : "#DD868C", 
+                "id" : "135481287329710845", 
+                "name" : "大于等于二人的世界"
+            }, 
+            "id" : "135481288185350704"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84f3"), 
+    "name" : "我变强了，没有变秃", 
+    "categories" : [
+        {
+            "name" : "职业规划", 
+            "type" : "category", 
+            "description" : "5 年后你在干嘛？", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481288361512686"
+        }, 
+        {
+            "name" : "自我管理", 
+            "type" : "category", 
+            "description" : "一种修行", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481288504119265"
+        }, 
+        {
+            "name" : "时间管理", 
+            "type" : "category", 
+            "description" : "希望一天能有 48 小时", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481288676084397"
+        }, 
+        {
+            "name" : "理财", 
+            "type" : "category", 
+            "description" : "在家里数钱不算。", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481288831274936"
+        }, 
+        {
+            "name" : "沟通", 
+            "type" : "category", 
+            "description" : "语言是窗户，或者是墙，它们审判我们，或者让我们自由。", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481288969686624"
+        }, 
+        {
+            "name" : "英语", 
+            "type" : "category", 
+            "description" : "Hello! My name is Li Lei. How old are you?", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481289171011110"
+        }, 
+        {
+            "name" : "运动健身", 
+            "type" : "category", 
+            "description" : "不仅仅是举铁", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481289359757055"
+        }, 
+        {
+            "name" : "涨知识", 
+            "type" : "category", 
+            "description" : "十万个为什么", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481289573664302"
+        }, 
+        {
+            "name" : "心理", 
+            "type" : "category", 
+            "description" : "向伪心理学说不", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481290005676332"
+        }, 
+        {
+            "name" : "灵修", 
+            "type" : "category", 
+            "description" : "生而为人", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "135481290580295910"
+        }, 
+        {
+            "name" : "教材教辅", 
+            "type" : "category", 
+            "description" : "学无止尽", 
+            "parentCategory" : {
+                "themeColor" : "#EBC660", 
+                "id" : "135481288340540976", 
+                "name" : "我变强了，没有变秃"
+            }, 
+            "id" : "228937924144532466"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84f4"), 
+    "name" : "互联网聊天必备", 
+    "categories" : [
+        {
+            "name" : "互联网", 
+            "type" : "category", 
+            "description" : "经论证，科技与人文的十字路口位于北京大山子。", 
+            "parentCategory" : {
+                "themeColor" : "#90CAC8", 
+                "id" : "135481290710321983", 
+                "name" : "互联网聊天必备"
+            }, 
+            "id" : "135481290735485863"
+        }, 
+        {
+            "name" : "创业", 
+            "type" : "category", 
+            "description" : "创业，是一个生活方式", 
+            "parentCategory" : {
+                "themeColor" : "#90CAC8", 
+                "id" : "135481290710321983", 
+                "name" : "互联网聊天必备"
+            }, 
+            "id" : "135481290873897190"
+        }, 
+        {
+            "name" : "产品·运营", 
+            "type" : "category", 
+            "description" : "产品生孩子，运营养孩子", 
+            "parentCategory" : {
+                "themeColor" : "#90CAC8", 
+                "id" : "135481290710321983", 
+                "name" : "互联网聊天必备"
+            }, 
+            "id" : "135481290974563116"
+        }, 
+        {
+            "name" : "算法·编程", 
+            "type" : "category", 
+            "description" : "Hi，Siri", 
+            "parentCategory" : {
+                "themeColor" : "#90CAC8", 
+                "id" : "135481290710321983", 
+                "name" : "互联网聊天必备"
+            }, 
+            "id" : "135481291167499823"
+        }, 
+        {
+            "name" : "交互设计", 
+            "type" : "category", 
+            "description" : "UI is Communication", 
+            "parentCategory" : {
+                "themeColor" : "#90CAC8", 
+                "id" : "135481290710321983", 
+                "name" : "互联网聊天必备"
+            }, 
+            "id" : "135481291465295923"
+        }, 
+        {
+            "name" : "科技", 
+            "type" : "category", 
+            "description" : "不一定是黑的", 
+            "parentCategory" : {
+                "themeColor" : "#90CAC8", 
+                "id" : "135481290710321983", 
+                "name" : "互联网聊天必备"
+            }, 
+            "id" : "135481291578540451"
+        }, 
+        {
+            "name" : "计算机", 
+            "type" : "category", 
+            "description" : "是科学，也是技术", 
+            "parentCategory" : {
+                "themeColor" : "#90CAC8", 
+                "id" : "135481290710321983", 
+                "name" : "互联网聊天必备"
+            }, 
+            "id" : "135481291687595642"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d84646a5b64e2b4776c84f5"), 
+    "name" : "拥抱——工作！", 
+    "categories" : [
+        {
+            "name" : "投资", 
+            "type" : "category", 
+            "description" : "投资人请看这里", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "135481291805033317", 
+                "name" : "拥抱——工作！"
+            }, 
+            "id" : "135481291826005674"
+        }, 
+        {
+            "name" : "企业管理", 
+            "type" : "category", 
+            "description" : "有朝一日多抓鱼也会有一本这样的书。", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "135481291805033317", 
+                "name" : "拥抱——工作！"
+            }, 
+            "id" : "135481292069275574"
+        }, 
+        {
+            "name" : "法律", 
+            "type" : "category", 
+            "description" : "法律，是人类理性的表现。", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "135481291805033317", 
+                "name" : "拥抱——工作！"
+            }, 
+            "id" : "135481292304156580"
+        }, 
+        {
+            "name" : "财务·会计", 
+            "type" : "category", 
+            "description" : "教你管钱，并不教你挣钱。", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "135481291805033317", 
+                "name" : "拥抱——工作！"
+            }, 
+            "id" : "135481292522262375"
+        }, 
+        {
+            "name" : "新闻与传播", 
+            "type" : "category", 
+            "description" : "匮乏的是内容，而不是流量。", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "135481291805033317", 
+                "name" : "拥抱——工作！"
+            }, 
+            "id" : "135481292711002786"
+        }, 
+        {
+            "name" : "广告·文案", 
+            "type" : "category", 
+            "description" : "广告人从不加班，而且头发浓密。", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "135481291805033317", 
+                "name" : "拥抱——工作！"
+            }, 
+            "id" : "135481292987829547"
+        }, 
+        {
+            "name" : "市场营销", 
+            "type" : "category", 
+            "description" : "前提是理解你的用户和产品。", 
+            "parentCategory" : {
+                "themeColor" : "#83A8DE", 
+                "id" : "135481291805033317", 
+                "name" : "拥抱——工作！"
+            }, 
+            "id" : "135481293155598397"
+        }
+    ]
+}

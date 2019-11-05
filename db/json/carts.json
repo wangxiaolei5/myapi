@@ -1,0 +1,117 @@
+{ 
+    "_id" : ObjectId("5d88923cb6f0ac2238969485"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d88438fda086609d48739b0", 
+    "goodsId" : "5d84bcccfd1a6a5b692824e7", 
+    "title" : "一个人住第9年", 
+    "images" : "/images/lol/yige.jpg", 
+    "price" : NumberInt(20), 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d8892e5b6f0ac2238969486"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d88438fda086609d48739b0", 
+    "goodsId" : "5d84bcc6fd1a6a5b692824e5", 
+    "title" : "空王冠", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "price" : 39.5, 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d88931fb6f0ac2238969487"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d88438fda086609d48739b0", 
+    "goodsId" : "5d84bccefd1a6a5b692824e9", 
+    "title" : "选对色彩穿对衣", 
+    "images" : "/images/lol/xuandui.jpg", 
+    "price" : 39.5, 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d88c528b6f0ac2238969489"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d88438fda086609d48739b0", 
+    "goodsId" : "5d85d1adf445ef10dd2b1e82", 
+    "title" : "空王冠2", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "price" : 39.5, 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d88c538b6f0ac223896948a"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d88438fda086609d48739b0", 
+    "goodsId" : "5d84bccbfd1a6a5b692824e6", 
+    "title" : "午后四时的啤酒", 
+    "images" : "/images/lol/danjing.jpg", 
+    "price" : NumberInt(26), 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d88ca69b6f0ac223896948b"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d88438fda086609d48739b0", 
+    "goodsId" : "5d84bccefd1a6a5b692824ea", 
+    "title" : "识对体形穿对衣", 
+    "images" : "/images/lol/renshi.jpg", 
+    "price" : NumberInt(40), 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d8cc6f8234fb81c700ea5a7"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d8cc6b1234fb81c700ea5a6", 
+    "goodsId" : "5d84bcc6fd1a6a5b692824e5", 
+    "title" : "空王冠", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "price" : 39.5, 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d8cc702234fb81c700ea5a8"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d8cc6b1234fb81c700ea5a6", 
+    "goodsId" : "5d84bccdfd1a6a5b692824e8", 
+    "title" : "没有色彩的多崎作和他的巡礼之年", 
+    "images" : "/images/lol/meiyou.jpg", 
+    "price" : 39.5, 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d8cc70c234fb81c700ea5a9"), 
+    "yuanjia" : NumberInt(0), 
+    "userId" : "5d8cc6b1234fb81c700ea5a6", 
+    "goodsId" : "5d84bcccfd1a6a5b692824e7", 
+    "title" : "一个人住第9年", 
+    "images" : "/images/lol/yige.jpg", 
+    "price" : NumberInt(20), 
+    "goodsSkus" : "全新", 
+    "buySku" : "全新", 
+    "buyNum" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}

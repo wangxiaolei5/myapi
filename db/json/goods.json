@@ -1,0 +1,378 @@
+{ 
+    "_id" : ObjectId("5d84b96a570fdf9e2a5c988f"), 
+    "title" : "宏观经济学", 
+    "rawAuthor" : "N格里高利曼昆", 
+    "images" : "/images/lol/hongguan.jpg", 
+    "doubanRating" : 9.2, 
+    "price" : 28.7, 
+    "zhe" : 4.4, 
+    "yuanjia" : 65.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "中国人民大学出版社", 
+    "publishDate" : "2011-09", 
+    "content" : "《宏观经济学(第7版)》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《宏观经济学(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d84bcc6fd1a6a5b692824e5"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 69.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d84bccbfd1a6a5b692824e6"), 
+    "title" : "午后四时的啤酒", 
+    "rawAuthor" : "(日) 新井一二三", 
+    "images" : "/images/lol/danjing.jpg", 
+    "doubanRating" : 7.6, 
+    "price" : 26.0, 
+    "zhe" : 9.8, 
+    "yuanjia" : 36.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "上海译文出版社", 
+    "publishDate" : "2019-08", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d84bcccfd1a6a5b692824e7"), 
+    "title" : "一个人住第9年", 
+    "rawAuthor" : "高木直子", 
+    "images" : "/images/lol/yige.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 20.0, 
+    "zhe" : 6.98, 
+    "yuanjia" : 34.9, 
+    "goodsSkus" : "全新", 
+    "publisher" : "江西科学技术出版社", 
+    "publishDate" : "2019-09", 
+    "content" : "《一个人住第9年》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d84bccdfd1a6a5b692824e8"), 
+    "title" : "没有色彩的多崎作和他的巡礼之年", 
+    "rawAuthor" : "村上春树", 
+    "images" : "/images/lol/meiyou.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 8.8, 
+    "yuanjia" : 46.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "南海出版公司", 
+    "publishDate" : "2018-07", 
+    "content" : "《没有色彩的多崎作和他的巡礼之年》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d84bccefd1a6a5b692824e9"), 
+    "title" : "选对色彩穿对衣", 
+    "rawAuthor" : "王静", 
+    "images" : "/images/lol/xuandui.jpg", 
+    "doubanRating" : 7.8, 
+    "price" : 39.5, 
+    "zhe" : 9.0, 
+    "yuanjia" : 16.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "漓江出版社", 
+    "publishDate" : "2019-05", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d84bccefd1a6a5b692824ea"), 
+    "title" : "识对体形穿对衣", 
+    "rawAuthor" : "王静", 
+    "images" : "/images/lol/renshi.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 40.0, 
+    "zhe" : 5.9, 
+    "yuanjia" : 46.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "漓江出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《识对体形穿对衣》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1a7f445ef10dd2b1e81"), 
+    "title" : "目送", 
+    "rawAuthor" : "龙应台", 
+    "images" : "/images/lol/musong.jpg", 
+    "doubanRating" : 8.6, 
+    "price" : 13.7, 
+    "zhe" : 3.5, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "生活·读书·新知三联书店", 
+    "publishDate" : "2019-09", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1adf445ef10dd2b1e82"), 
+    "title" : "增长黑客", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/zengzhang.jpg", 
+    "doubanRating" : 7.7, 
+    "price" : 26.6, 
+    "zhe" : 4.5, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "电子工业出版社", 
+    "publishDate" : "2019-09", 
+    "content" : "《增长黑客》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1aef445ef10dd2b1e83"), 
+    "title" : "商业格言", 
+    "rawAuthor" : "比尔瑞德 编", 
+    "images" : "/images/lol/shangye.jpg", 
+    "doubanRating" : 6.3, 
+    "price" : 8.1, 
+    "zhe" : 2.9, 
+    "yuanjia" : 66.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "新星出版社", 
+    "publishDate" : "2019-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1aff445ef10dd2b1e84"), 
+    "title" : "世界著名记者经典报道", 
+    "rawAuthor" : "郝勤", 
+    "images" : "/images/lol/shijie.jpg", 
+    "doubanRating" : 7.8, 
+    "price" : 15.9, 
+    "zhe" : NumberInt(4), 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "四川文艺出版社", 
+    "publishDate" : "2019-04", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1b1f445ef10dd2b1e85"), 
+    "title" : "哲学与人生", 
+    "rawAuthor" : "傅佩荣", 
+    "images" : "/images/lol/zhexue.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "上海三联书店", 
+    "publishDate" : "2010-05", 
+    "content" : "《哲学与人生》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1b2f445ef10dd2b1e86"), 
+    "title" : "利比亚战地日记", 
+    "rawAuthor" : "闾丘露薇", 
+    "images" : "/images/lol/libi.jpg", 
+    "doubanRating" : 7.6, 
+    "price" : 12.6, 
+    "zhe" : 3.5, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "光明日报出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1b4f445ef10dd2b1e87"), 
+    "title" : "三体Ⅱ", 
+    "rawAuthor" : "刘慈欣", 
+    "images" : "/images/lol/santi.jpg", 
+    "doubanRating" : 9.3, 
+    "price" : 13.0, 
+    "zhe" : 5.9, 
+    "yuanjia" : 69.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "重庆出版社", 
+    "publishDate" : "201-09", 
+    "content" : "《三体3:死神永生》内容简介：与三体文明的战争使人类首次看到了宇宙黑暗的真相，地球文明像一个恐惧的孩子，熄灭了寻友的篝火，在暗夜中发抖。自以为历经沧桑，其实刚刚蹒跚学步；自以为悟出了生存竞争的秘密，其实还远没有竞争的资格。使两个文明命悬一线的黑暗森林打击，不过是宇宙战场上的一个微不足道的插曲，一个在战场上乱跑的无知孩童被堑壕中的狙击手射杀，仅此而已。真正的星际战争没人见过，也不可能见到。因为战争的方式和武器已经远超出人类的想象，目睹战场之日，就是灭亡之时。人类没有想到，面对这巨大的存在，从社会学的结论，却可以推导出宇宙学的结果。宇宙的田园时代已经远去，那时，万物的终极之美曾昙花一现，现在已经变成任何大脑和智慧体都无法做出的梦，变成游吟诗人飘渺的残歌；宇宙的物竞天择已到了最惨烈的时刻，在亿万光年暗无天日的战场上，深渊最底层的毁灭力量被唤醒，太空变成了死神广阔的披风。太阳系中的人们永远不会知道这一切，最后面对真相的，只有两双眼睛。"
+}
+{ 
+    "_id" : ObjectId("5d85d1b5f445ef10dd2b1e88"), 
+    "title" : "每天学点中国史", 
+    "rawAuthor" : "吕思勉", 
+    "images" : "/images/lol/guoshi.jpg", 
+    "doubanRating" : 8.1, 
+    "price" : 6.9, 
+    "zhe" : 2.3, 
+    "yuanjia" : 22.9, 
+    "goodsSkus" : "全新", 
+    "publisher" : "中央编译出版社", 
+    "publishDate" : "2009-01", 
+    "content" : "吕思勉是我国现代史学I史上二唯一一位在通史、断代史和专史等诸多领域里都作出重大贡献的历史学家，其史学研究通贯各时代，周赡各领域，长于综合研究和融会贯通。著名史学家严耕望先生说：“论方面广阔，述作宏富，且能深入为文者，我常推重吕思勉诚之先生、陈垣援庵先生、陈寅恪先生与钱穆宾四先生为前辈史学四大家。《每天学点中国史》是吕思勉在20世纪30年代精心撰写的高中历史教材。《每天学点中国史》用简洁流畅的文字叙述从远古到20世纪30年代中国的历史大势、制度沿革、文化发展。《每天学点中国史》旁征博引，纵横捭阖，在形式上也极为生动活泼，易读易解，无半点枯涩呆板，不仅条理清晰、记述准确，而且极多新颖独到、极有价值的见解，堪称一部优秀的中国通史普及读物。"
+}
+{ 
+    "_id" : ObjectId("5d85d1b6f445ef10dd2b1e89"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1b7f445ef10dd2b1e8a"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1b9f445ef10dd2b1e8b"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1baf445ef10dd2b1e8c"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1bbf445ef10dd2b1e8d"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1bcf445ef10dd2b1e8e"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1bff445ef10dd2b1e8f"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1c1f445ef10dd2b1e90"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1c5f445ef10dd2b1e91"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1c8f445ef10dd2b1e92"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1cff445ef10dd2b1e93"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}
+{ 
+    "_id" : ObjectId("5d85d1d1f445ef10dd2b1e94"), 
+    "title" : "空王冠", 
+    "rawAuthor" : "丹琼斯", 
+    "images" : "/images/lol/kongwang.jpg", 
+    "doubanRating" : 8.7, 
+    "price" : 39.5, 
+    "zhe" : 5.9, 
+    "yuanjia" : 6.0, 
+    "goodsSkus" : "全新", 
+    "publisher" : "社会科学文献出版社", 
+    "publishDate" : "2018-07", 
+    "content" : "《空王冠》英文版自1992年出版以来，已再版七次，是美国最畅销的经济学教科书之一。《空王冠(第7版)》在全世界有着重要的影响，目前已被翻译成15种语言出版，被几十个国家采用。"
+}

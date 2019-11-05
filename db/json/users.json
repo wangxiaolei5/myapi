@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("5d88438fda086609d48739b0"), 
+    "username" : "lili", 
+    "password" : "123456", 
+    "tel" : "13456789000", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d8cc6b1234fb81c700ea5a6"), 
+    "username" : "xiaobu", 
+    "password" : "123456", 
+    "tel" : "13456789011", 
+    "__v" : NumberInt(0)
+}
